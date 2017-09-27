@@ -1,6 +1,6 @@
 <?php
 // insert your full URL here with http://
-$domain = "";
+$domain = "http://animy-animy.1d35.starter-us-east-1.openshiftapps.com";
 // SERVERS START
 $proxies = array(); 
 //1stproxylist
